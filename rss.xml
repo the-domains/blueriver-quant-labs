@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Blueriver Quant Labs]]></title>
         <description><![CDATA[Blueriver Quant Labs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://blueriverquantlabs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 05:08:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 05:13:59 GMT</lastBuildDate>
+        <atom:link href="http://blueriverquantlabs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea9f82b8-51ec-4ee0-9418-497bd7cdc35e.png">]]></description>
-            <link>undefinedwelcome-to-blueriver-quant-labs-a-coalition-of-experimenta/index.html</link>
+            <description><![CDATA[<p>Welcome to Blueriver Quant Labs - a coalition of experimental thinkers practicing data science and economics in cross-breeding quantitative labs (Q-labs) set up for discovery in finance, healthcare, sustainability, crime, public policy, real estate, infrastructure and economic development.</p>]]></description>
+            <link>http://blueriverquantlabs.com/welcome-to-blueriver-quant-labs-a-coalition-of-experimenta/index.html</link>
             <guid isPermaLink="false">9ee945b6-48f9-4090-9036-ec2e63ad97cc</guid>
-            <pubDate>Tue, 19 Apr 2016 05:08:14 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 05:13:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
