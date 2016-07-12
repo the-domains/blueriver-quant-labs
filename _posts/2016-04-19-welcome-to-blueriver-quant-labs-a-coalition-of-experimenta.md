@@ -4,23 +4,26 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
-description: "Welcome to Blueriver Quant Labs - a coalition of experimental thinkers practicing data science and economics in cross-breeding quantitative labs (Q-labs) set up for discovery in finance (fintech), healthcare, sustainability, crime, public policy, real estate, infrastructure and economic development. If you're interested in our work or seek to develop innovative applications and analyses with data and machine learning, drop a line: experimentwithus@blueriverquantlabs.com"
-datePublished: '2016-04-19T14:47:42.227Z'
-dateModified: '2016-04-19T14:44:28.174Z'
+description: >-
+  Welcome to Blueriver Quant Labs - a coalition of experimental thinkers
+  practicing data science and economics in cross-breeding quantitative labs
+  (Q-labs) set up for discovery in finance (fintech), healthcare,
+  sustainability, crime, public policy, real estate, infrastructure and economic
+  development. If you're interested in our work or seek to develop innovative
+  applications and analyses with data and machine learning, drop a line:
+  experimentwithus@blueriverquantlabs.com
+datePublished: '2016-07-12T12:59:16.290Z'
+dateModified: '2016-07-12T12:55:53.479Z'
 title: ''
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-19-welcome-to-blueriver-quant-labs-a-coalition-of-experimenta.md
-published: true
+sourcePath: >-
+  _posts/2016-04-19-welcome-to-blueriver-quant-labs-a-coalition-of-experimenta.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 _type: Blurb
 
 ---
