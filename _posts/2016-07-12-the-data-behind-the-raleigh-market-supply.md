@@ -20,8 +20,8 @@ description: >-
   demand for Raleigh-Durham office space is quite inelastic. Tenants appear
   insensitive to moderate price increases, likely because space remains a
   bargain compared to space in primary markets like New York and Boston.
-datePublished: '2016-07-12T13:30:26.282Z'
-dateModified: '2016-07-12T13:29:29.288Z'
+datePublished: '2016-07-12T13:31:51.676Z'
+dateModified: '2016-07-12T13:30:35.274Z'
 author:
   - name: ''
     url: ''
