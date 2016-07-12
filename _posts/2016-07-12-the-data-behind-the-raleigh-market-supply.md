@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.realmassive.com/blog/raleigh-durham-market-supply/'
 inLanguage: en
 keywords:
   - spaces
@@ -21,12 +20,15 @@ description: >-
   demand for Raleigh-Durham office space is quite inelastic. Tenants appear
   insensitive to moderate price increases, likely because space remains a
   bargain compared to space in primary markets like New York and Boston.
-datePublished: '2016-07-12T13:20:17.011Z'
-dateModified: '2016-07-12T13:20:03.142Z'
-author: []
+datePublished: '2016-07-12T13:25:51.544Z'
+dateModified: '2016-07-12T13:23:09.323Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: The Data Behind the Raleigh Market Supply
+sourcePath: _posts/2016-07-12-the-data-behind-the-raleigh-market-supply.md
 authors: []
 publisher:
   name: RealMassive
@@ -34,7 +36,7 @@ publisher:
   url: 'https://www.realmassive.com'
   favicon: 'https://www.realmassive.com/wp-content/uploads/2015/09/favicon.png'
 starred: false
-sourcePath: _posts/2016-07-12-the-data-behind-the-raleigh-market-supply.md
+url: the-data-behind-the-raleigh-market-supply/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
