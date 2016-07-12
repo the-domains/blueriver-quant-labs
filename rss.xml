@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Blueriver Quant Labs]]></title>
+        <description><![CDATA[Blueriver Quant Labs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 13:20:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Data Behind the Raleigh Market Supply]]></title>
+            <description><![CDATA[<article><h1>The Data Behind the Raleigh Market Supply</h1><p></p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc6744e60849d1975eb91b36f8b0fb6e/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Frm-wp-production%2F%2F2016%2F07%2FRaleigh-Data-Chart.png"></article>]]></description>
+            <link>https://www.realmassive.com/blog/raleigh-durham-market-supply/</link>
+            <guid isPermaLink="false">eee3a1bf-4c25-48d5-bc84-0bc111e5727b</guid>
+            <pubDate>Tue, 12 Jul 2016 13:20:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
