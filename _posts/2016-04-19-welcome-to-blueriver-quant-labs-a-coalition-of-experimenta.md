@@ -13,8 +13,8 @@ description: >-
   development. If you're interested in our work or seek to develop innovative
   applications and analyses with data and machine learning, drop a line:
   experimentwithus@blueriverquantlabs.com
-datePublished: '2016-07-12T12:59:16.290Z'
-dateModified: '2016-07-12T12:55:53.479Z'
+datePublished: '2016-07-12T16:36:53.615Z'
+dateModified: '2016-07-12T16:36:53.217Z'
 title: ''
 author:
   - name: ''
