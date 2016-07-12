@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Blueriver Quant Labs]]></title>
         <description><![CDATA[Blueriver Quant Labs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://blueriverquantlabs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 16:35:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 16:43:32 GMT</lastBuildDate>
+        <atom:link href="http://blueriverquantlabs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Data Behind the Raleigh Market Supply]]></title>
-            <description><![CDATA[<article><h1>The Data Behind the Raleigh Market Supply</h1><p>July 11, 2016 Guest Post by Zach Wade, Founder and Chief of Experiments at Blueriver Quant Labs In the first half of 2016, RealMassive data revealed that demand for Raleigh-Durham office space is quite inelastic. Tenants appear insensitive to moderate price increases, likely because space remains a bargain compared to space in primary markets like New York and Boston.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc6744e60849d1975eb91b36f8b0fb6e/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Frm-wp-production%2F%2F2016%2F07%2FRaleigh-Data-Chart.png"></article>]]></description>
+            <title><![CDATA[Supply Data Distribution]]></title>
+            <description><![CDATA[<article><h1>Supply Data Distribution</h1><p>In the first half of 2016, RealMassive data revealed that demand for Raleigh-Durham office space is quite inelastic. Tenants appear insensitive to moderate price increases, likely because space remains a bargain compared to space in primary markets like New York and Boston. There’s no shortage of young talent, which supports the argument that Raleigh-Durham is entering the class of 18-hour cities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc6744e60849d1975eb91b36f8b0fb6e/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Frm-wp-production%2F%2F2016%2F07%2FRaleigh-Data-Chart.png"></article>]]></description>
             <link>https://www.realmassive.com/blog/raleigh-durham-market-supply/</link>
             <guid isPermaLink="false">e4dbd5a2-ca1f-4940-afae-4b80dd1a0188</guid>
-            <pubDate>Tue, 12 Jul 2016 16:34:59 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2016 16:43:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
