@@ -13,8 +13,8 @@ description: >-
   development. If you're interested in our work or seek to develop innovative
   applications and analyses with data and machine learning, drop a line:
   experimentwithus@blueriverquantlabs.com
-datePublished: '2016-07-12T16:36:53.615Z'
-dateModified: '2016-07-12T16:36:53.217Z'
+datePublished: '2016-07-12T16:36:54.994Z'
+dateModified: '2016-07-12T16:36:54.775Z'
 title: ''
 author:
   - name: ''
@@ -23,7 +23,7 @@ sourcePath: >-
   _posts/2016-04-19-welcome-to-blueriver-quant-labs-a-coalition-of-experimenta.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
