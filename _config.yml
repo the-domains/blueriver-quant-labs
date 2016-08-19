@@ -19,8 +19,7 @@ analytics:
   twitter: null
   google: UA-77227516-1
   facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/937d7afc-4e98-4451-9e51-b231403698ba.gif
+logo: null
 name: Blueriver Quant Labs
 cta:
   bucket: null
