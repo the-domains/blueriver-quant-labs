@@ -1,10 +1,19 @@
 ---
+datePublished: '2016-08-19T15:35:07.040Z'
+sourcePath: >-
+  _posts/2016-04-19-welcome-to-blueriver-quant-labs-a-coalition-of-experimenta.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: ''
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-19T15:35:06.696Z'
+title: ''
+publisher: {}
 description: >-
   Welcome to Blueriver Quant Labs - a coalition of experimental thinkers
   practicing data science and economics in cross-breeding quantitative labs
@@ -13,16 +22,8 @@ description: >-
   development. If you're interested in our work or seek to develop innovative
   applications and analyses with data and machine learning, drop a line:
   experimentwithus@blueriverquantlabs.com
-datePublished: '2016-07-12T16:36:54.994Z'
-dateModified: '2016-07-12T16:36:54.775Z'
-title: ''
-author:
-  - name: ''
-    url: ''
-sourcePath: >-
-  _posts/2016-04-19-welcome-to-blueriver-quant-labs-a-coalition-of-experimenta.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
 starred: true
 _type: Blurb
 
@@ -31,4 +32,4 @@ _type: Blurb
 
 Welcome to Blueriver Quant Labs - a coalition of experimental thinkers practicing data science and economics in cross-breeding quantitative labs (Q-labs) set up for discovery in finance (fintech), healthcare, sustainability, crime, public policy, real estate, infrastructure and economic development. If you're interested in our work or seek to develop innovative applications and analyses with data and machine learning, drop a line: [experimentwithus@blueriverquantlabs.com][0]
 
-[0]: mailto:experimentwithus@blueriverquantlabs.com
+[0]: http://experimentwithus@blueriverquantlabs.com/
