@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T15:13:57.851Z'
+datePublished: '2016-08-19T15:24:58.758Z'
 sourcePath: _posts/2016-07-12-the-data-behind-the-raleigh-market-supply.md
 hasPage: true
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-19T15:13:57.403Z'
+dateModified: '2016-08-19T15:24:58.237Z'
 title: Real Estate Market Supply
 app_links: []
 publisher:
