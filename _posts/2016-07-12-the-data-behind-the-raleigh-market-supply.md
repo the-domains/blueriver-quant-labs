@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-07-12T16:47:26.215Z'
+datePublished: '2016-08-19T14:53:42.799Z'
 sourcePath: _posts/2016-07-12-the-data-behind-the-raleigh-market-supply.md
-isBasedOnUrl: 'https://www.realmassive.com/blog/raleigh-durham-market-supply/'
 keywords:
   - spaces
   - raleigh-durham
@@ -15,7 +14,7 @@ keywords:
   - quant
 related: []
 author: []
-dateModified: '2016-07-12T16:47:20.909Z'
+dateModified: '2016-08-19T14:53:42.342Z'
 title: The Data Behind the Raleigh Market Supply
 app_links: []
 publisher:
@@ -31,10 +30,10 @@ description: >-
   because space remains a bargain compared to space in primary markets like New
   York and Boston.
 inLanguage: en
+hasPage: true
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: the-data-behind-the-raleigh-market-supply/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
