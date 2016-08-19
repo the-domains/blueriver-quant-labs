@@ -24,10 +24,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: Real Estate Q-Lab
-    id: e4dbd5a2-ca1f-4940-afae-4b80dd1a0188
-    type: content
 favicon: null
 collections:
   - index:
