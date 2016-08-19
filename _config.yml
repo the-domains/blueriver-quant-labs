@@ -19,6 +19,8 @@ analytics:
   twitter: null
   google: UA-77227516-1
   facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/937d7afc-4e98-4451-9e51-b231403698ba.gif
 name: Blueriver Quant Labs
 cta:
   bucket: null
@@ -28,7 +30,8 @@ navigation:
   - name: Real Estate Q-Lab
     id: e4dbd5a2-ca1f-4940-afae-4b80dd1a0188
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b29af711-8b1b-45aa-babd-38e22eef519f.gif
 collections:
   - index:
       path: /
