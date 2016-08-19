@@ -1,4 +1,30 @@
-purpose: []
+typography_spectrum: 0.43015
+color:
+  saturation: 0.3171618366613984
+  brandStrength: 0.3650056931655854
+  rhythmicContrast: 0.3167526158504188
+  brandColors:
+    - '#00aeef'
+    - '#000000'
+    - '#a3a8ae'
+    - '#697078'
+    - '#ffffff'
+  lightness: 0.1140454353298992
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: UA-77227516-1
+  facebook: null
+name: Blueriver Quant Labs
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -11,30 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.3171618366613984
-  brandStrength: 0.3650056931655854
-  rhythmicContrast: 0.3167526158504188
-  brandColors:
-    - '#00aeef'
-    - '#000000'
-    - '#a3a8ae'
-    - '#697078'
-    - '#ffffff'
-  lightness: 0.1140454353298992
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-77227516-1
-  facebook: null
-favicon: null
-name: Blueriver Quant Labs
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.43015
-layout_spectrum: 0
+title: A Coalition of Experimental Thinkers
+purpose: []
