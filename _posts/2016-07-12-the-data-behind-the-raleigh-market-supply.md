@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T15:33:34.321Z'
+datePublished: '2016-08-19T15:37:31.724Z'
 sourcePath: _posts/2016-07-12-the-data-behind-the-raleigh-market-supply.md
 hasPage: true
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-19T15:33:33.940Z'
+dateModified: '2016-08-19T15:37:31.376Z'
 title: 'Real Estate Q-Lab: Market Supply'
 app_links: []
 publisher:
@@ -25,18 +25,13 @@ publisher:
   favicon: 'https://www.realmassive.com/wp-content/uploads/2015/09/favicon.png'
   domain: www.realmassive.com
 description: >-
-  For context, Blueriver Quant Labs estimates that, on average in the first half
-  of 2016, a 1% increase in price for commercial office space in Austin, TX
-  corresponds to a 1.14% decline in demand. As we enter summer, Austin demand is
-  turning more inelastic (whereby demand is expected to drop by less than 1% for
-  a 1% price increase), but not much more. Austin, the poster-child of 18-hour
-  cities, seems to have reached a steadier state of supply-demand dynamics than
-  Raleigh-Durham. As Raleigh-Durham enters the scene as an 18-hour city, we’d
-  expect constraints on the supply side of the market. This may explain why
-  Blueriver Quant Labs detects little price sensitivity on the demand side.
-  Startups hungry for space and established firms hungry for millennial talent
-  compete for space, leaving market power firmly in the grip of landlords until
-  developers fill the gap.
+  July 11, 2016 Guest Post for RealMassive by our Founder and Chief of
+  Experiments @ Blueriver Q-Labs, Zach Wade: In the first half of 2016,
+  RealMassive data revealed that demand for Raleigh-Durham office space is quite
+  inelastic. Tenants appear insensitive to moderate price increases, likely
+  because space remains a bargain compared to space in primary markets like New
+  York and Boston. There’s no shortage of young talent, which supports the
+  argument that Raleigh-Durham is entering the class of 18-hour cities.
 inLanguage: en
 starred: false
 url: the-data-behind-the-raleigh-market-supply/index.html
@@ -46,9 +41,11 @@ _type: MediaObject
 ---
 # Real Estate Q-Lab: Market Supply
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2113b79ecc56c6aa132b0e404a7b339fc1f6daaa.png" /><h1>The Data Behind the Raleigh Market Supply</h1><p>July 11, 2016 Guest Post for RealMassive by our Founder and Chief of Experiments @ Blueriver Q-Labs, Zach Wade: In the first half of 2016, RealMassive data revealed that demand for Raleigh-Durham office space is quite inelastic. Tenants appear insensitive to moderate price increases, likely because space remains a bargain compared to space in primary markets like New York and Boston. There’s no shortage of young talent, which supports the argument that Raleigh-Durham is entering the class of 18-hour cities.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2113b79ecc56c6aa132b0e404a7b339fc1f6daaa.png" /><h1>The Data Behind the Raleigh Market Supply</h1></article>
 
-For context, [Blueriver Quant Labs][0] estimates that, on average in the first half of 2016, a 1% increase in price for commercial office space in Austin, TX corresponds to a 1.14% decline in demand. As we enter summer, Austin demand is turning more inelastic (whereby demand is expected to drop by less than 1% for a 1% price increase), but not much more. Austin, the poster-child of 18-hour cities, seems to have reached a steadier state of supply-demand dynamics than Raleigh-Durham. As Raleigh-Durham enters the scene as an [18-hour city][1], we'd expect constraints on the supply side of the market. This may explain why Blueriver Quant Labs detects little price sensitivity on the demand side. Startups hungry for space and established firms hungry for millennial talent compete for space, leaving market power firmly in the grip of landlords until developers fill the gap.
+July 11, 2016 Guest Post for [RealMassive][0] by our Founder and Chief of Experiments @ Blueriver Q-Labs, Zach Wade: In the first half of 2016, RealMassive data revealed that demand for Raleigh-Durham office space is quite inelastic. Tenants appear insensitive to moderate price increases, likely because space remains a bargain compared to space in primary markets like New York and Boston. There's no shortage of young talent, which supports the argument that Raleigh-Durham is entering the class of 18-hour cities.
+
+For context, [Blueriver Quant Labs][1] estimates that, on average in the first half of 2016, a 1% increase in price for commercial office space in Austin, TX corresponds to a 1.14% decline in demand. As we enter summer, Austin demand is turning more inelastic (whereby demand is expected to drop by less than 1% for a 1% price increase), but not much more. Austin, the poster-child of 18-hour cities, seems to have reached a steadier state of supply-demand dynamics than Raleigh-Durham. As Raleigh-Durham enters the scene as an [18-hour city][2], we'd expect constraints on the supply side of the market. This may explain why Blueriver Quant Labs detects little price sensitivity on the demand side. Startups hungry for space and established firms hungry for millennial talent compete for space, leaving market power firmly in the grip of landlords until developers fill the gap.
 
 ### Supply Data Distribution
 
@@ -60,7 +57,7 @@ RealMassive data is valuable for anyone interested in understanding the composit
 
 Consider this case: what if supply consolidated to a higher rate and square footage due to property managers altering existing spaces (for example, combining existing spaces to make larger ones) to meet the desired specifications of prospective tenants? This would be useful information for a developer looking to relax the supply constraints of the Raleigh-Durham market, as it provides a baseline target for space sizes and corresponding willingness to pay. If this scenario and hypothesis reflect reality, they reveal that prospective tenants aren't so strapped for space that they need to settle or reduce standards, even though supply is constrained.
 
-Note that the average rate per square foot increased ($11.14 to $12.45) in-step with the average square feet demanded (15.0k to 18.4k SF) among [properties][2] tracked by RealMassive from 2015 to 2016 . In other words, landlords are not providing volume discounts, but instead benefit from leasing more space at higher rates per tenant. Such intel is key for CRE investors, as it dictates two possible strategies for realizing healthy long-term returns in the Raleigh-Durham market. The first strategy is to search for existing buildings that could be re-purposed -- the data reveals willingness to pay for the right space, meaning that an investor may find positive NPV building restorations today that were negative NPV projects in the past. The second strategy would be to invest in new development projects, particularly ones that focus on accommodating the [preferences][3] of high-growth and youthful firms found in 18-hour cities.
+Note that the average rate per square foot increased ($11.14 to $12.45) in-step with the average square feet demanded (15.0k to 18.4k SF) among [properties][3] tracked by RealMassive from 2015 to 2016 . In other words, landlords are not providing volume discounts, but instead benefit from leasing more space at higher rates per tenant. Such intel is key for CRE investors, as it dictates two possible strategies for realizing healthy long-term returns in the Raleigh-Durham market. The first strategy is to search for existing buildings that could be re-purposed -- the data reveals willingness to pay for the right space, meaning that an investor may find positive NPV building restorations today that were negative NPV projects in the past. The second strategy would be to invest in new development projects, particularly ones that focus on accommodating the [preferences][4] of high-growth and youthful firms found in 18-hour cities.
 
 ### Another Example
 
@@ -68,7 +65,8 @@ What if, instead, the consolidation was due to the most in-demand spaces getting
 
 The next step is for CRE professionals to use the same data to closely look at individual buildings that meet an investment criteria and make a call about the nature of the consolidation we're seeing before placing any bets.
 
-[0]: http://blueriverquantlabs.com/
-[1]: https://www.realmassive.com/blog/raleigh-durham-a-market-on-the-rise/
-[2]: https://www.realmassive.com/search?city=Raleigh,%2BNC&amp;spaceType=%5Blease,sublease%5D
-[3]: http://citycenterlehighvalley.com/businesses-milennials-love-18-hour-cities/
+[0]: https://www.realmassive.com/blog/raleigh-durham-market-supply/ "RealMassive Blog"
+[1]: http://blueriverquantlabs.com/
+[2]: https://www.realmassive.com/blog/raleigh-durham-a-market-on-the-rise/
+[3]: https://www.realmassive.com/search?city=Raleigh,%2BNC&amp;spaceType=%5Blease,sublease%5D
+[4]: http://citycenterlehighvalley.com/businesses-milennials-love-18-hour-cities/
