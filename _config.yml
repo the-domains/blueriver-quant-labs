@@ -1,4 +1,3 @@
-layout_spectrum: 0.1779089
 typography_spectrum: 0.769403850659728
 color:
   saturation: 0.5700326797086746
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.1779089
 analytics:
   twitter: null
   google: UA-77227516-1
@@ -24,10 +24,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: Real Estate Q-Lab
-    id: e4dbd5a2-ca1f-4940-afae-4b80dd1a0188
-    type: content
 favicon: null
 collections:
   - index:
