@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T15:32:26.001Z'
+datePublished: '2016-08-19T15:33:34.321Z'
 sourcePath: _posts/2016-07-12-the-data-behind-the-raleigh-market-supply.md
 hasPage: true
 keywords:
@@ -16,8 +16,8 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-19T15:32:25.483Z'
-title: Real Estate Market Supply
+dateModified: '2016-08-19T15:33:33.940Z'
+title: 'Real Estate Q-Lab: Market Supply'
 app_links: []
 publisher:
   url: 'https://www.realmassive.com'
@@ -44,7 +44,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Real Estate Market Supply
+# Real Estate Q-Lab: Market Supply
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2113b79ecc56c6aa132b0e404a7b339fc1f6daaa.png" /><h1>The Data Behind the Raleigh Market Supply</h1><p>July 11, 2016 Guest Post for RealMassive by our Founder and Chief of Experiments @ Blueriver Q-Labs, Zach Wade: In the first half of 2016, RealMassive data revealed that demand for Raleigh-Durham office space is quite inelastic. Tenants appear insensitive to moderate price increases, likely because space remains a bargain compared to space in primary markets like New York and Boston. There’s no shortage of young talent, which supports the argument that Raleigh-Durham is entering the class of 18-hour cities.</p></article>
 
