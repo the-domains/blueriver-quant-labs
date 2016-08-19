@@ -1,28 +1,40 @@
-name: Blueriver Quant Labs
-favicon: null
-layout_spectrum: 0.25096
-typography_spectrum: 0.43015
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-77227516-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3171618366613984
+  brandStrength: 0.3650056931655854
+  rhythmicContrast: 0.3167526158504188
   brandColors:
     - '#00aeef'
     - '#000000'
     - '#a3a8ae'
     - '#697078'
     - '#ffffff'
-  brandStrength: 0.3650056931655854
-  lightness: 0.11404543532989919
-  saturation: 0.3171618366613984
-  rhythmicContrast: 0.3167526158504188
-purpose: []
+  lightness: 0.1140454353298992
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-77227516-1
+  facebook: null
+favicon: null
+name: Blueriver Quant Labs
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.43015
+layout_spectrum: 0
