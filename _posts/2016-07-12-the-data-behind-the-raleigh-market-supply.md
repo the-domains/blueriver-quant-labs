@@ -1,8 +1,7 @@
 ---
-datePublished: '2016-08-19T14:56:15.947Z'
+datePublished: '2016-08-19T15:09:07.814Z'
 sourcePath: _posts/2016-07-12-the-data-behind-the-raleigh-market-supply.md
-isBasedOnUrl: 'https://www.realmassive.com/blog/raleigh-durham-market-supply/'
-hasPage: false
+hasPage: true
 keywords:
   - spaces
   - raleigh-durham
@@ -17,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-19T14:56:15.448Z'
+dateModified: '2016-08-19T15:09:07.421Z'
 title: The Data Behind the Raleigh Market Supply
 app_links: []
 publisher:
@@ -34,6 +33,7 @@ description: >-
   York and Boston.
 inLanguage: en
 starred: false
+url: the-data-behind-the-raleigh-market-supply/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
