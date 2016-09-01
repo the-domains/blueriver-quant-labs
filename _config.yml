@@ -1,4 +1,18 @@
-typography_spectrum: 0.769403850659728
+title: Blueriver Quant Labs
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: a coalition of experimental thinkers
 color:
   saturation: 0.5700326797086746
   brandStrength: 0.05576370866037905
@@ -10,37 +24,23 @@ color:
     - '#697078'
     - '#FFFFFF'
   lightness: 0.4414194088894874
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.1779089
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: UA-77227516-1
   facebook: null
 name: Blueriver Quant Labs
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
 navigation:
   - name: Real Estate Q-Lab
     id: e4dbd5a2-ca1f-4940-afae-4b80dd1a0188
     type: content
-favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Blueriver Quant Labs
-description: a coalition of experimental thinkers
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.769403850659728
+layout_spectrum: 0.0851602
