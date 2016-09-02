@@ -1,3 +1,16 @@
+layout_spectrum: 0.9715018160641193
+typography_spectrum: 0.20882160682231188
+color:
+  saturation: 0.5700326797086746
+  brandStrength: 0.05576370866037905
+  rhythmicContrast: 0.6286129332147539
+  brandColors:
+    - '#00AEEF'
+    - '#000000'
+    - '#A3A8AE'
+    - '#697078'
+    - '#FFFFFF'
+  lightness: 0.4414194088894874
 title: Blueriver Quant Labs
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
     permalink:
       path: '/:title/'
 description: a coalition of experimental thinkers
-color:
-  saturation: 0.5700326797086746
-  brandStrength: 0.05576370866037905
-  rhythmicContrast: 0.6286129332147539
-  brandColors:
-    - '#00AEEF'
-    - '#000000'
-    - '#A3A8AE'
-    - '#697078'
-    - '#FFFFFF'
-  lightness: 0.4414194088894874
 cta:
   bucket: null
   version: null
@@ -42,5 +44,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.769403850659728
-layout_spectrum: 0.0851602
